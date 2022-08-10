@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+}
+
+h1{
+    font-size:40px;
+    font-family:fantasy;
+}
+
+.line{
+    background-color:black;
+    width:70px;
+    height:6px;
+    margin:8px auto;
+    border-radius:20px;
+}
+
+#app{
+    background-color: orangered;
+}
+
+#games{
+    background-color:deepskyblue;
+}
+
+#chatbot{
+    background-color: rgb(183, 226, 29);
+}
